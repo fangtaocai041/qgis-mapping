@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Rproj.user/
+.Rhistory/
+.RData/
+output/figures/
+output/layouts/
+data/raw/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
